@@ -1,0 +1,413 @@
+{
+  "main": {
+    "id": "359b380b569ed106",
+    "type": "split",
+    "children": [
+      {
+        "id": "81b230baf52d60bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "734095043034f552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldrheim/Lieux/Eldrheim/Liste des villageois/Erland Eigilen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Erland Eigilen"
+            }
+          },
+          {
+            "id": "a9df392a38edef0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldrheim/Lieux/Eldrheim/Liste des villageois/Ragna Brynjarsdottir.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ragna Brynjarsdottir"
+            }
+          },
+          {
+            "id": "6390d0119fa5667a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldrheim/Lieux/Eldrheim/Liste des villageois/Erland Eigilen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Erland Eigilen"
+            }
+          },
+          {
+            "id": "87a0410e81d39211",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldrheim/Lieux/Eldrheim/Liste des villageois/Solveig Anundsdottir.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Solveig Anundsdottir"
+            }
+          },
+          {
+            "id": "9afe0b1ba367cdd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldrheim/Lieux/Eldrheim/Liste des villageois/Torsten Magnusson.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Torsten Magnusson"
+            }
+          },
+          {
+            "id": "f6c1271ea2272dbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldrheim/Lieux/Eldrheim/Liste des villageois/Inga Ottesdottir.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inga Ottesdottir"
+            }
+          },
+          {
+            "id": "e5e5718e7d4bf765",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldrheim/Lieux/Eldrheim/Liste des villageois/Erland Eigilen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Erland Eigilen"
+            }
+          },
+          {
+            "id": "702489a43860b2ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldrheim/Lieux/Eldrheim/Liste des villageois/Runi Thorleifsson.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Runi Thorleifsson"
+            }
+          },
+          {
+            "id": "207d532ff166a426",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldrheim/Lieux/Eldrheim/Liste des villageois/Runi Thorleifsson.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Runi Thorleifsson"
+            }
+          },
+          {
+            "id": "8d51ec4d86fe05e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldrheim/Lieux/Eldrheim/Liste des villageois/Ketil Dagrsson.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ketil Dagrsson"
+            }
+          },
+          {
+            "id": "3fd46591fd6d90d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldrheim/Lieux/Eldrheim/Liste des villageois/Yrsa Frostdottir.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Yrsa Frostdottir"
+            }
+          },
+          {
+            "id": "d445a34ebb48925e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldrheim/Lieux/Eldrheim/Liste des villageois/Dagny Ragnarsdottir.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dagny Ragnarsdottir"
+            }
+          },
+          {
+            "id": "4b66365a0a9825b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldrheim/Lieux/Eldrheim/Liste des villageois/Snorri Belleriviere.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Snorri Belleriviere"
+            }
+          },
+          {
+            "id": "5c870be8d89d28d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldrheim/Lieux/Eldrheim/Liste des villageois/Snorri Belleriviere.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Snorri Belleriviere"
+            }
+          },
+          {
+            "id": "2052c4bad9fcbe7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldrheim/Lieux/Eldrheim/Liste des villageois/Thorbjorn Eilifsson.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thorbjorn Eilifsson"
+            }
+          },
+          {
+            "id": "6ca8c79999f2b9de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldrheim/Modèles/Modèle de fiche de personnage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modèle de fiche de personnage"
+            }
+          }
+        ],
+        "currentTab": 15
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5004c36479589601",
+    "type": "split",
+    "children": [
+      {
+        "id": "91594086fa1d3524",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c99412b30eebcc23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d81bc069adde2f7d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "couture",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "189df9bcd08e67ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d3f62f8c58ebfa9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b9e0cda99fb79d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97cf9bc4b384ab93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Eldrheim/Lieux/Eldrheim/Liste des villageois/Bodil Steinarsdottir.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Bodil Steinarsdottir"
+            }
+          },
+          {
+            "id": "31008c17ef02ffb8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Eldrheim/Lieux/Eldrheim/Liste des villageois/Bodil Steinarsdottir.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Bodil Steinarsdottir"
+            }
+          },
+          {
+            "id": "a077e6ce7c7b5255",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "efe7f2387131a5a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Eldrheim/Lieux/Eldrheim/Liste des villageois/Bodil Steinarsdottir.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Bodil Steinarsdottir"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c99412b30eebcc23",
+  "lastOpenFiles": [
+    "Eldrheim/Monde/Terre des Dévoreurs.md",
+    "Eldrheim/Monde/Ruines de Tyr.md",
+    "Eldrheim/Monde/Nerralis.md",
+    "Eldrheim/Monde/la Forêt des Traitres.md",
+    "Eldrheim/Monde/Kragos.md",
+    "Eldrheim/Monde/Fallhod.md",
+    "Eldrheim/Monde/Eldrheim.md",
+    "Eldrheim/Monde/El'Solune.md",
+    "Eldrheim/Monde/Croisée des Chemins.md",
+    "Eldrheim/Monde/Avant-Poste de Tardar.md",
+    "2025-07-04.md",
+    "Frigg.md",
+    "Mont Noir.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Bjorn Svekersson.md",
+    "Eldrheim/Modèles/Modèle de fiche de personnage.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Ylva Skorrisdottir.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Yrsa Frostdottir.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Viggo Bjornsson.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Torsten Magnusson.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Thorvald Bjornsson.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Harald Erlanden.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Ida Mortendottir.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Ragna Brynjarsdottir.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Freja Halldottir.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Inga Ottesdottir.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Siri Skaldsdottir.md",
+    "Eldrheim/Lieux/Eldrheim/Lieux",
+    "Untitled.canvas"
+  ]
+}
