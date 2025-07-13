@@ -1,10 +1,10 @@
 # Torbin Copechêne
 
-**Âge :** 23
-**Genre :** Masculin
-**Race :** Fairy
-**Rôle :** Charpentier et bâtisseur 
-**Statut :** Vivant
+**Âge :** 23  
+**Genre :** Masculin  
+**Race :** Fairy  
+**Rôle :** Charpentier et bâtisseur   
+**Statut :** Vivant  
 
 ## Famille
 - Conjointe : [[Marvelle Dentduchanvre]]
