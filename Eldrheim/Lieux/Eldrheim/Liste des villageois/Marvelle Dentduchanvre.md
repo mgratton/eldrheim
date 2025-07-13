@@ -1,10 +1,10 @@
 # Marvelle Dentduchanvre
 
-**Âge :** 18 ans
-**Genre :** Féminin
-**Race :** Humaine
-**Rôle :** Herboriste et apothicaire
-**Statut :** Vivante
+**Âge :** 18 ans  
+**Genre :** Féminin  
+**Race :** Humaine  
+**Rôle :** Herboriste et apothicaire  
+**Statut :** Vivante  
 
 ## Famille
 - Conjoint :  [[Torbin Copechêne]]
