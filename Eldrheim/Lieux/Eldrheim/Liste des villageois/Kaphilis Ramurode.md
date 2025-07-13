@@ -1,10 +1,10 @@
 # Kaphilis Ramurode
 
-**Âge :** 14 ans
-**Genre :** Masculin  
-**Race :** Fungril
-**Rôle :** Frère-errant
-**Statut :** Vivant
+**Âge :** 14 ans  
+**Genre :** Masculin    
+**Race :** Fungril  
+**Rôle :** Frère-errant  
+**Statut :** Vivant  
 
 ## Famille
 - Aucune famille connue
