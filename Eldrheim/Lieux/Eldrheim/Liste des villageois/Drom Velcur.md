@@ -1,10 +1,10 @@
 # Drom Velcur
 
-**Âge :** 35
-**Genre :** Masculin
-**Race :** Gnome
-**Rôle :** Musicien itinérant
-**Statut :** Vivant
+**Âge :** 35  
+**Genre :** Masculin  
+**Race :** Gnome  
+**Rôle :** Musicien itinérant  
+**Statut :** Vivant  
 
 ## Famille
 - Conjoint(e) : Une conjointe inconnue
