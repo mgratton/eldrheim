@@ -1,10 +1,10 @@
 # Garrun Forge-Morne
 
-**Âge :** 23 Ans
-**Genre :** Masculin 
-**Race :** Humain
-**Rôle :** Forgeron
-**Statut :** Vivant
+**Âge :** 23 Ans  
+**Genre :** Masculin   
+**Race :** Humain  
+**Rôle :** Forgeron  
+**Statut :** Vivant  
 
 ## Famille
 - Aucun proche connu à Eldrheim  
