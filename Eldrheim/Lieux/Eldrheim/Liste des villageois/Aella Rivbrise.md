@@ -1,10 +1,10 @@
 # Aella Rivbrise
 
-**Âge :** Inconnu
-**Genre :** Féminin
-**Race :** Elfe
-**Rôle :** Rôdeuse
-**Statut :** Vivante
+**Âge :** Inconnu  
+**Genre :** Féminin  
+**Race :** Elfe  
+**Rôle :** Rôdeuse  
+**Statut :** Vivante  
 
 ## Famille
 - Aucune famille connue
