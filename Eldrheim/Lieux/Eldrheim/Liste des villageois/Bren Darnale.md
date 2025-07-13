@@ -1,10 +1,10 @@
 # Bren Darnale
 
-**Âge :** 60 ans
-**Genre :** Masculin
-**Race :** Nain
-**Rôle :** Éleveur de lucioles
-**Statut :** Vivant
+**Âge :** 60 ans  
+**Genre :** Masculin  
+**Race :** Nain  
+**Rôle :** Éleveur de lucioles  
+**Statut :** Vivant  
 
 ## Famille
 - Aucune famille connue
