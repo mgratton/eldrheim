@@ -1,10 +1,10 @@
 # Halwin Corroxe
 
-**Âge :** 45 ans
-**Genre :** Masculin
-**Race :** Humain(e)  
-**Rôle :** Clerc de l’Éclat Sacré
-**Statut :** Vivant
+**Âge :** 45 ans  
+**Genre :** Masculin  
+**Race :** Humain(e)    
+**Rôle :** Clerc de l’Éclat Sacré  
+**Statut :** Vivant  
 
 ## Famille
 - Aucune famille connue
