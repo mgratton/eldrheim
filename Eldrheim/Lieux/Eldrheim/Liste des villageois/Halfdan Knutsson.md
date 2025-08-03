@@ -3,7 +3,7 @@
 **Âge :** 44 ans  
 **Genre :** Masculin  
 **Race :** Humain  
-**Rôle :** Propriétaire de la taverne d’Eldrheim, [[Le Bouclier Brisé]]
+**Rôle :** Propriétaire de la taverne d’Eldrheim, [[Le Bouclier Brisé]]  
 **Statut :** Vivant
 
 ## Famille
