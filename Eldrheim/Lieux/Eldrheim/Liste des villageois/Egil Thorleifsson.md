@@ -3,7 +3,7 @@
 **Âge :** 30 ans  
 **Genre :** Masculin  
 **Race :** Humain  
-**Rôle :** Bûcheron
+**Rôle :** Bûcheron  
 **Statut :** Vivant
 
 ## Famille
