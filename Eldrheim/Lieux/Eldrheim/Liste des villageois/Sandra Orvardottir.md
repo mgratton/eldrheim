@@ -3,7 +3,7 @@
 **Âge :** 32 ans  
 **Genre :** Féminin  
 **Race :** Humaine  
-**Rôle :** Tenancière et cuisinière de la taverne d’Eldrheim, [[Le Bouclier Brisé  ]]
+**Rôle :** Tenancière et cuisinière de la taverne d’Eldrheim, [[Le Bouclier Brisé  ]]  
 **Statut :** Vivante
 
 ## Famille
