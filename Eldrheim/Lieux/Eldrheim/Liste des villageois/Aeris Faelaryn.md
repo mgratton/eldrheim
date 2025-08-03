@@ -3,7 +3,7 @@
 **Âge :** 16 ans  
 **Genre :** Féminin  
 **Race :** Elfe  
-**Rôle :** Artiste et apprentie de Lirael
+**Rôle :** Artiste et apprentie de Lirael  
 **Statut :** Vivante
 
 ## Famille
