@@ -2,7 +2,7 @@
 
 **Âge :** 29 ans  
 **Genre :** Féminin  
-**Race :** Faun 
+**Race :** Faun  
 **Rôle :** Guérisseuse itinérante  
 **Statut :** Vivante
 
