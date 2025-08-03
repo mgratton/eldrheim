@@ -3,7 +3,7 @@
 **Âge :** 23 ans  
 **Genre :** Féminin  
 **Race :** Humaine  
-**Rôle :** Chasseresse 
+**Rôle :** Chasseresse  
 **Statut :** Décédée
 
 ## Famille
