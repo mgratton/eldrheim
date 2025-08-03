@@ -3,7 +3,7 @@
 **Âge :** 16 ans  
 **Genre :** Féminin  
 **Race :** Géante
-**Rôle :** Apprentie brodeuse et chirurgienne apprentie
+**Rôle :** Apprentie brodeuse et chirurgienne apprentie  
 **Statut :** Vivante
 
 ## Famille
