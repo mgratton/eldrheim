@@ -4,7 +4,7 @@
 **Genre :** Féminin  
 **Race :** Orc  
 **Rôle :** Cheffe Artisane dans l'atelier d'os  
-**Statut :** Vivant(e) / Décédé(e) / Possédé(e) / Autre
+**Statut :** Vivante
 
 ## Famille
 - Conjoint(e) : [[Hogar Crigma]]
