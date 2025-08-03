@@ -1,9 +1,9 @@
 # Soeur Embryx
 
-**Âge :** 55 ans
-**Genre :** Féminin
-**Race :** Fungril
-**Rôle :** Gardienne des spores de veille
+**Âge :** 55 ans  
+**Genre :** Féminin  
+**Race :** Fungril  
+**Rôle :** Gardienne des spores de veille  
 **Statut :** Vivante
 
 ## Famille
