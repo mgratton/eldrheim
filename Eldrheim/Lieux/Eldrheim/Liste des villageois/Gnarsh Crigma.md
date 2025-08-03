@@ -1,6 +1,6 @@
 # Gnarsh Crigma
 
-**Âge :** 27 ans 
+**Âge :** 27 ans  
 **Genre :** Masculin  
 **Race :** Orc  
 **Rôle :** Cavalier Chasseur  
