@@ -3,7 +3,7 @@
 **Âge :** 24 ans  
 **Genre :** Masculin  
 **Race :** Orc  
-**Rôle :** Cavalier Chasseur
+**Rôle :** Cavalier Chasseur  
 **Statut :** Vivant
 
 ## Famille
