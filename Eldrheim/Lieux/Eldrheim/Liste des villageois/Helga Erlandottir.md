@@ -3,7 +3,7 @@
 **Âge :** 15 ans  
 **Genre :** Féminin  
 **Race :** Humaine  
-**Rôle :** Femme de la maison
+**Rôle :** Femme de la maison  
 **Statut :** Vivante
 
 ## Famille
