@@ -8,20 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "722f4e9d2532ea99",
+            "id": "b48b780adcc5457d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eldrheim/Lieux/Eldrheim/Liste des villageois/Grom Goffs.md",
+                "file": "Eldrheim/Modèles/Modèle de fiche de personnage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grom Goffs"
+              "title": "Modèle de fiche de personnage"
+            }
+          },
+          {
+            "id": "c612c89406becff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldrheim/Lieux/Eldrheim/Liste des villageois/Eira Vahl.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eira Vahl"
+            }
+          },
+          {
+            "id": "dd132a9086c4ffd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldrheim/Lieux/Eldrheim/Liste des villageois/Eira Vahl.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eira Vahl"
+            }
+          },
+          {
+            "id": "4d42f827971488b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldrheim/Lieux/Eldrheim/Liste des villageois/Halvar Drenn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Halvar Drenn"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,34 +211,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "722f4e9d2532ea99",
+  "active": "c99412b30eebcc23",
   "lastOpenFiles": [
-    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Ubada Crigma.md",
-    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Grom Goffs.md",
-    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Izi Cravensong.md",
-    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Hogar Crigma.md",
-    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Tarak Su.md",
-    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Lagazi Crigma.md",
-    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Nogu Crigma.md",
-    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Vanchu Crigma.md",
-    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Ugarth.md",
-    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Tanglar Semiz.md",
-    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Azog.md",
-    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Der Crigma.md",
-    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Uglùk.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Leif Marnell.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Halvar Drenn.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Eira Vahl.md",
     "Eldrheim/Modèles/Modèle de fiche de personnage.md",
-    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Helga Erlandottir.md",
-    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Freja Halldottir.md",
-    "Eldrheim/Lieux/Eldrheim/Factions et métiers/Clan Crigma.md",
-    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Eek Snake.md",
-    "Eldrheim/Lieux/Eldrheim/Lieux/Grenier des Cendres.md",
-    "Eldrheim/Lieux/Eldrheim/Lieux/Le Bouclier Brisé.md",
-    "Eldrheim/Lieux/Faille-Mousse/Liste des villageois/Soeur Embryx.md",
-    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Grigri Crigma.md",
-    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Grumbar Crigma.md",
-    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Gnarsh Crigma.md",
-    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Bree Crigma.md",
-    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Augh Crigma.md",
+    "Eldrheim/Personnages/Aevi Ulfskjald.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Svala Sigurddottir.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Lirael de El'Solune.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Sigurd Veidbjorn.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Tyrek Pasplume.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Aeris Faelaryn.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Orm Gorgeflamme.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Hildi Picgemme.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Karn Dentbrisée.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Drogan Gorgeflamme.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Kolm.md",
+    "Runar.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Gunnar Torstensson.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Drakka Coeurfer.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Eirik Stensson.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Thyra Ottesdottir.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Viggo Bjornsson.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Freydis Stendottir.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Sten Ottesdottir.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Siv Runardottir.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Runar Jaktvarg.md",
+    "Eldrheim/Lieux/Eldrheim/Liste des villageois/Grom Goffs.md",
     "Eldrheim/Lieux/Faille-Mousse/Liste des villageois",
     "Eldrheim/Lieux/Faille-Mousse",
     "Eldrheim/Lieux/Eldrheim/Lieux",
