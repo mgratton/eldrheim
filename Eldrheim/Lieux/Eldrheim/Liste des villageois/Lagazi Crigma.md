@@ -3,7 +3,7 @@
 **Âge :** 27 ans  
 **Genre :** Féminin  
 **Race :** Orc  
-**Rôle :** Couturière au foureur 
+**Rôle :** Couturière au foureur  
 **Statut :** Vivante
 
 ## Famille
