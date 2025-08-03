@@ -3,7 +3,7 @@
 **Âge :** 81 ans  
 **Genre :** Féminin  
 **Race :** Naine  
-**Rôle :** Poliseuse de cristal 
+**Rôle :** Poliseuse de cristal  
 **Statut :** Vivante
 
 ## Famille
