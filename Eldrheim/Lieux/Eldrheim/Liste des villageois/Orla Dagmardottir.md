@@ -3,7 +3,7 @@
 **Âge :** 61 ans  
 **Genre :** Féminin  
 **Race :** Humaine  
-**Rôle :** Sorcière du village, veuve de [[Skorri Hroarsson]] 
+**Rôle :** Sorcière du village, veuve de [[Skorri Hroarsson]]  
 **Statut :** Vivante
 
 ## Famille
