@@ -2,7 +2,7 @@
 
 **Âge :** 62 ans  
 **Genre :** Masculin  
-**Race :** Humain 
+**Race :** Humain  
 **Rôle :** Conteur du village  
 **Statut :** Vivant
 
